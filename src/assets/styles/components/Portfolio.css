@@ -1,0 +1,26 @@
+* {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+@media only screen and (min-width: 700px) {
+    .grid {
+        height: 500px;
+        background: rgb(207,207,207);
+        background: linear-gradient(0deg, rgba(207,207,207,1) 0%, rgba(255,255,255,1) 100%);
+    } 
+    
+    .single-portfolio .thumb .imageRs, .single-portfolio .thumb .imageMov {
+        height: 350px;
+    }
+    .single-portfolio .thumb .imageTr{
+        height: 350px;
+        width: 400px;
+    }
+    .single-portfolio .title .linkGit img {
+        width: 45px;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    
+}
