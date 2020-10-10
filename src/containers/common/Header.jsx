@@ -44,6 +44,16 @@ const Header = () => (
                                     Education
                                 </NavLink>
                             </li>
+                            <li className="nav-item ml-1">
+                                <NavLink 
+                                    exact
+                                    activeClassName="selected" 
+                                    className="nav-link" 
+                                    to="/courses"
+                                >
+                                    Courses
+                                </NavLink>
+                            </li>
                         </ul>
                     </div>
                 </div>
