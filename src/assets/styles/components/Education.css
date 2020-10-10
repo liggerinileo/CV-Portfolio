@@ -32,23 +32,19 @@
         margin-top: 10px;
         background: rgb(207,207,207);
         background: linear-gradient(0deg, rgba(207,207,207,1) 0%, rgba(255,255,255,1) 100%);
-        /* background-color: rgb(223, 222, 222); */
+        padding-bottom: 35px;
     }
     .cont .imgFondo img{
-        width: 250px;
+        width: 350px;
     }
-    .cont .imgFondo h2{
+    .cont .imgFondo h3{
         color: black;
-        font-size: 35px;
+        font-size: 25px;
     }
-    .cont .datos {
-        margin-top: 17px;
-        font-size: 19px;
+    .cont .imgFondo .schoolLink img {
+        width: 38px;
     }
-    .cont .datos .linkGit img,.cont .datos .linkLinkdin img{
-        width: 40px;
-    }
-    .cont .datos .emailLink img, .cont .datos .schoolLink img, .cont .datos .studentLink img{
+    .cont .imgFondo .collegeLink img {
         width: 30px;
     }
 }
