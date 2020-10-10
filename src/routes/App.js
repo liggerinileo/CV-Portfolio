@@ -3,7 +3,6 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import Home from '../containers/views/Home';
 import Courses from '../containers/views/Courses';
-import NotFound from '../containers/views/NotFound';
 import Portfolio from '../containers/views/Portfolio';
 import Education from '../containers/views/Education';
 
@@ -15,7 +14,6 @@ const App = () => (
             <Route exact path='/education' component={Education} />
             <Route exact path='/portfolio' component={Portfolio} />
             <Route exact path='/courses' component={Courses} />
-            <Route component={NotFound} />
         </Switch>
     </BrowserRouter>
 )
