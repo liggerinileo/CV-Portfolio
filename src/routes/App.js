@@ -14,6 +14,7 @@ const App = () => (
             <Route exact path='/education' component={Education} />
             <Route exact path='/portfolio' component={Portfolio} />
             <Route exact path='/courses' component={Courses} />
+            <Route component={Home} />
         </Switch>
     </BrowserRouter>
 )
