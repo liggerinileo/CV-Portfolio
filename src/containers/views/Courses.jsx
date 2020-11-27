@@ -29,6 +29,7 @@ const Education = () => (
                 title="Curso JavaScript Moderno"
                 certificate="https://www.udemy.com/certificate/UC-0e14db18-a5b3-4bf5-b0aa-ca2ed74dffa4/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
             <EducationItem 
                 tit="col-12 title p-inner mt-2 text-center"
@@ -37,6 +38,7 @@ const Education = () => (
                 title="Curso Profesional de JavaScript"
                 certificate="https://platzi.com/@leandroliggerini/curso/1642-course/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
             <EducationItem
                 tit="col-12 title p-inner mt-2 text-center" 
@@ -45,6 +47,7 @@ const Education = () => (
                 title="Curso de React JS"
                 certificate="https://platzi.com/@leandroliggerini/curso/1548-react/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
 
             <EducationItem 
@@ -54,6 +57,7 @@ const Education = () => (
                 title="Curso Practico de React JS"
                 certificate="https://platzi.com/@leandroliggerini/curso/1651-react-ejs/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
             <EducationItem 
                 tit="col-12 title p-inner mt-2 text-center"
@@ -62,6 +66,7 @@ const Education = () => (
                 title="Curso de React Redux por Bedu"
                 certificate="https://platzi.com/@leandroliggerini/curso/1613-redux/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
             <EducationItem 
                 tit="col-12 title p-inner mt-2 text-center"
@@ -70,6 +75,7 @@ const Education = () => (
                 title="Curso de React Router"
                 certificate="https://platzi.com/@leandroliggerini/curso/1342-react-router/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
 
             <EducationItem 
@@ -79,6 +85,7 @@ const Education = () => (
                 title="Curso de React Router y Redux"
                 certificate="https://platzi.com/@leandroliggerini/curso/1652-react-router-redux/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
             <EducationItem 
                 tit="col-12 title p-inner mt-2 text-center"
@@ -87,14 +94,16 @@ const Education = () => (
                 title="Curso de React Native"
                 certificate="https://platzi.com/@leandroliggerini/curso/1292-react-native-old/diploma/detalle/"
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
             <EducationItem 
-                tit="col-12 title p-inner mt-2 text-center"
+                tit="col-12 title3 p-inner text-center"
                 styleIcon="col-12 icon p-inner text-center"
                 src={imgTesting}
-                title="Curso de Professional Testing Master"
+                title="Professional Testing Master"
                 certificate={imgTesting}
                 degree={collegeDegree}
+                linkGit="linkGit"
             />
         </EducationCard>
     </Fragment>

@@ -5,7 +5,7 @@ const Education = props => {
     
     return (  
 
-        <div className="single-card mt-4 col-lg-3 col-md-3 col-sm-3 col-xs-12 all mockup text-center">
+        <div className="single-card mt-4 col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 all mockup text-center">
             <div className="col-12 mt-2 relative">
                 <div className="thumb">
                     <div className="overlay overlay-bg"></div>
@@ -16,7 +16,7 @@ const Education = props => {
                 <h2>{props.title}</h2>
             </div> 
             <div className={props.styleIcon}>
-                <a href={props.certificate} target="blank" className="linkGit"><img src={props.degree} alt="Github Icon"/></a>
+                <a href={props.certificate} target="blank" className={props.linkGit}><img src={props.degree} alt="Github Icon"/></a>
             </div>                                          
         </div>   
 

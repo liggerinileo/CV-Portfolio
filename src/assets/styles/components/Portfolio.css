@@ -8,9 +8,9 @@
         height: 475px;
         background: rgb(207,207,207);
         background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(207,207,207,1) 100%);
-        -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-        -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+        -webkit-box-shadow: 10px 10px 5px 0px rgba(37, 37, 37, 0.35);
+        -moz-box-shadow: 10px 10px 5px 0px rgba(37, 37, 37, 0.35);
+        box-shadow: 10px 10px 5px 0px rgba(37, 37, 37, 0.15);
         width: 30%;
         margin-left: 32px;
     }
