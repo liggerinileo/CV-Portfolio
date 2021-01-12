@@ -14,7 +14,6 @@ import imgReactPr from '../../assets/static/reactPractico.jpg';
 import imgRedux from '../../assets/static/redux.jpg';
 import imgRouter from '../../assets/static/reactRouter.jpg';
 import imgRouYRed from '../../assets/static/routerRedux.jpg';
-import imgNative from '../../assets/static/reactNative.jpg';
 import imgTesting from '../../assets/static/testing.jpg';
 
 
@@ -84,15 +83,6 @@ const Education = () => (
                 src={imgRouYRed}
                 title="Curso de React Router y Redux"
                 certificate="https://platzi.com/@leandroliggerini/curso/1652-react-router-redux/diploma/detalle/"
-                degree={collegeDegree}
-                linkGit="linkGit"
-            />
-            <EducationItem 
-                tit="col-12 title p-inner mt-2 text-center"
-                styleIcon="col-12 icon3 p-inner text-center"
-                src={imgNative}
-                title="Curso de React Native"
-                certificate="https://platzi.com/@leandroliggerini/curso/1292-react-native-old/diploma/detalle/"
                 degree={collegeDegree}
                 linkGit="linkGit"
             />
