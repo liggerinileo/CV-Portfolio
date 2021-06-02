@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd9efbaa4e2fd0a17ecbbf10b6043f8e",
+    "revision": "31b76ee2ac12efd3e8a7af8f2675ca86",
     "url": "/CV-Portfolio/index.html"
   },
   {
-    "revision": "9b43d5090e1b593607ab",
-    "url": "/CV-Portfolio/static/css/main.f7b7afef.chunk.css"
+    "revision": "0089f6f5ed2f099bc453",
+    "url": "/CV-Portfolio/static/css/main.fb143e5a.chunk.css"
   },
   {
-    "revision": "cc8aa22825035aba3869",
-    "url": "/CV-Portfolio/static/js/2.fa8fa911.chunk.js"
+    "revision": "723e1d4ddb55269c1461",
+    "url": "/CV-Portfolio/static/js/2.742bab37.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/CV-Portfolio/static/js/2.fa8fa911.chunk.js.LICENSE.txt"
+    "url": "/CV-Portfolio/static/js/2.742bab37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b43d5090e1b593607ab",
-    "url": "/CV-Portfolio/static/js/main.a3603d14.chunk.js"
+    "revision": "0089f6f5ed2f099bc453",
+    "url": "/CV-Portfolio/static/js/main.007a40be.chunk.js"
   },
   {
     "revision": "cd7c59da82313620e40e",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CV-Portfolio/static/media/bachelors-degree.2e49fdd0.svg"
   },
   {
-    "revision": "ee195ea83d87b91a38e98804eecd2c55",
-    "url": "/CV-Portfolio/static/media/city.ee195ea8.svg"
+    "revision": "d4b13988c6178ad2f6bb149b01aa09bd",
+    "url": "/CV-Portfolio/static/media/city.d4b13988.svg"
   },
   {
     "revision": "a67879acae2902c1b0f873d6009acfe7",
@@ -106,5 +106,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f83a8a21a9cf2031ec043f62e7ed033d",
     "url": "/CV-Portfolio/static/media/web.f83a8a21.svg"
+  },
+  {
+    "revision": "6ef82bb17ff87ae68a60d95f2fa2c0fd",
+    "url": "/CV-Portfolio/static/media/work.6ef82bb1.png"
   }
 ]);
