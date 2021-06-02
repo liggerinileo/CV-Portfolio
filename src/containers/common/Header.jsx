@@ -41,7 +41,17 @@ const Header = () => (
                                     className="nav-link" 
                                     to="/education"
                                 >
-                                    Education
+                                    Educación
+                                </NavLink>
+                            </li>
+                            <li className="nav-item ml-1">
+                                <NavLink 
+                                    exact
+                                    activeClassName="selected" 
+                                    className="nav-link" 
+                                    to="/work"
+                                >
+                                    Experiencia
                                 </NavLink>
                             </li>
                             <li className="nav-item ml-1">
@@ -51,7 +61,7 @@ const Header = () => (
                                     className="nav-link" 
                                     to="/courses"
                                 >
-                                    Courses
+                                    Cursos
                                 </NavLink>
                             </li>
                         </ul>

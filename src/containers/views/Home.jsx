@@ -25,7 +25,7 @@ const Home = () => (
 				  <h2 className="mb-5">Leandro Ariel Liggerini</h2>
 				</div>
 				<div className="datos col-md-6 col-lg-6 col-xl-6 text-center">
-					<p className="mb-3"><span className="studentLink"><img src={student} alt="Student"/> </span>Estudiante de Tecnicatura Universitaria en Desarrollo de Aplicaciones Informaticas, UNICEN</p>
+					<p className="mb-3"><span className="studentLink"><img src={student} alt="Student"/> </span>Estudiante de Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas, UNICEN</p>
 					<p><span className="cityLink"><img src={city} alt="City"/> </span>Tandil, Buenos Aires, Argentina</p>
                     <p><span className="emailLink"><img src={email} alt="Email"/> </span>liggerinileo@gmail.com</p>
 					<p className="mt-5">
